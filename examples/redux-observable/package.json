@@ -1,0 +1,19 @@
+{
+  "name": "redux-observable-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "from2": "^2.3.0",
+    "redux": "^3.7.2",
+    "redux-observable": "^1.0.0-alpha.2",
+    "rxjs-stream": "file:../..",
+    "rxjs": ">=6.0.0-beta.0 <7",
+    "through2": "^2.0.3"
+  }
+}

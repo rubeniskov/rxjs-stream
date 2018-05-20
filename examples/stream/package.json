@@ -1,0 +1,18 @@
+{
+  "name": "stream-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "from2": "^2.3.0",
+    "rxjs": "^6.1.0",
+    "rxjs-stream": "file:../..",
+    "through2": "^2.0.3"
+  }
+}
